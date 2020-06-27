@@ -184,7 +184,7 @@
 		<text name="gui_ad_restoreButtonText" 					text="Przywrócenie" />
 		<text name="gui_ad_settingsClosingDialog_title" 		text="Wszystkie zmiany zostaną utracone" />
 		<text name="gui_ad_settingsClosingDialog_text" 			text="Czy na pewno chcesz zamknąć ustawienia bez zapisywania?" />
-		<text name="gui_ad_showMarkersOnMap"					text="Markery prysznicowe" />
+		<text name="gui_ad_showMarkersOnMap"					text="Pokaż markery" />
 		<text name="gui_ad_showMarkersOnMap_tooltip"			text="Pokaż markery/przeznaczenia na mapie gry" />
 		
 		<text name="gui_ad_routesManagerTitle" 					text="Kierownik trasy" />
@@ -306,7 +306,7 @@
 		<text name="AD_task_chase_side_left"					text="w lewo" />	
 		<text name="AD_task_chase_side_rear"					text="tył" />	
 		<text name="AD_task_chase_side_right"					text="prawo" />		
-		<text name="AD_task_waiting_for_room"					text="Czekanie na pokój" />
+		<text name="AD_task_waiting_for_room"					text="Czekanie na miejsce" />
 		<text name="AD_task_exiting_field"						text="Wyjście z pola" />
 	</texts>
 </l10n>
